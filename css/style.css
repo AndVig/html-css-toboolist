@@ -88,3 +88,9 @@
 .vspace{
     margin: 5px;
 }
+.pbullet{
+    list-style-image: url(../img/task-complete.svg)
+}
+.nbullet{
+    list-style-image: url(../img/dialog-error.svg);
+}
