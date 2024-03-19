@@ -56,32 +56,35 @@
 .label1{
     background-color: blue;
     color: white;
-    padding: 5px;
-    font-size: 10px;
+    padding: 4px;
+    font-size: 7px;
     border-radius: 20px;
     border: 0;
 }
 .label2{
     background-color: purple;
     color: white;
-    padding: 5px;
-    font-size: 10px;
+    padding: 4px;
+    font-size: 7px;
     border-radius: 20px;
     border: 0;
 }
 .label3{
     background-color: orange;
     color: white;
-    padding: 5px;
-    font-size: 10px;
+    padding: 4px;
+    font-size: 7px;
     border-radius: 20px;
     border: 0;
 }
 .label4{
     background-color: rgb(70, 219, 70);
     color: white;
-    padding: 5px;
-    font-size: 10px;
+    padding: 4px;
+    font-size: 7px;
     border-radius: 20px;
     border: 0;
+}
+.vspace{
+    margin: 5px;
 }
