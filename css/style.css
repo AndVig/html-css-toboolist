@@ -41,16 +41,47 @@
 }
 .b1{
     background-color: aqua;
-    border: 1px;
+    border: 2px solid gray;
     border-radius: 5px;
     padding: 10px;
 }
 .b2{
     background-color: white;
-    border-color: gray;
     color: gray;
-    border: 10px;
+    border: 2px solid gray;
     border-radius: 5px;
     padding: 10px;
 
+}
+.label1{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 20px;
+    border: 0;
+}
+.label2{
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 20px;
+    border: 0;
+}
+.label3{
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 20px;
+    border: 0;
+}
+.label4{
+    background-color: rgb(70, 219, 70);
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 20px;
+    border: 0;
 }
